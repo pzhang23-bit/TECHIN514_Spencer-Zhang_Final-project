@@ -1,0 +1,5 @@
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","BT1","1","Battery","Battery:BatteryHolder_Keystone_3000_1x12mm",""
+"2","SW2","1","SW_Push","Button_Switch_THT:SW_PUSH_6mm",""
+"3","U1","1","ESP32-C3","Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.7x3.7mm",""
+"4","U2","1","BME280","Package_LGA:Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering",""
